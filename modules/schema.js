@@ -1,0 +1,1 @@
+module.exports.url = require('./schemas/urlSchema')
